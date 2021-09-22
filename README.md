@@ -21,7 +21,7 @@ Participants will gain experience applying machine learning on graphs solving re
 
 A short (and incomplete) list of survey papers and books listed at no particular order.
 
-1. (survey paper) [Representation Learning on Graphs: Methods and Applications]() by William L. Hamilton, Rex Ying, and Jure Leskovec, 2017
+1. (survey paper) [Representation Learning on Graphs: Methods and Applications](https://www.thejournal.club/c/paper/130785/) by William L. Hamilton, Rex Ying, and Jure Leskovec, 2017
 2. (survey paper) [Graph Learning: A Survey](https://www.thejournal.club/c/paper/344933/) by Feng Xia, Ke Sun, Shuo Yu, Abdul Aziz, Liangtian Wan, Shirui Pan, and Huan Liu, IEEE Transactions on Artificial Intelligence, 2021
 3. (survey paper) [Geometric deep learning: going beyond Euclidean data](https://www.thejournal.club/c/paper/106946/) by Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, and Pierre Vandergheynst, IEEE Signal Processing Magazine, 2017 
 4. (book) [Graph representation learning](https://www.thejournal.club/c/paper/377948/) by W.L. Hamilton, 2020
