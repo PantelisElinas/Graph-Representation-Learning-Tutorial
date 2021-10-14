@@ -2,8 +2,6 @@
 
 Welcome to the source code repo for Data61's tutorial on Graph Representation Learning. 
 
-Instructions on how to setup your computer and the code to be used during the tutorial will be made available here on **October 16th, 2021**.
-
 Regards,
 
 Pantelis
