@@ -8,6 +8,46 @@ Regards,
 
 Pantelis
 
+## Setup Instructions
+
+The code for this tutorial requires Python 3.7 or newer. If you do not have Python installed on you system then please install a suitable version from [python.org](https://www.python.org/). A better and recommended alternative is to install the most current version of the [Anaconda distribution](https://www.anaconda.com/products/individual). The setup instructions assume that you have installed Anaconda.
+
+First, you need to create a new Python virtual environment. We recommend using `conda` for this because it makes it easy to specify the Python version.
+
+> conda create --name grl-course-env python=3.7
+
+Then, activate the new environment.
+
+> conda activate grl-course-env
+
+Check that you are using the correct Python version. The following command,
+
+> python --version
+
+should show `Python 3.7.11` or the most recent `3.7` version available for your OS.
+
+Next, install the required Python libraries using the command,
+
+> pip install -r requirements.txt
+
+If the above fails to install the PyTorch library then please follow the official installation instructions [here](https://pytorch.org/). Similarly for the [Deep Graph Library](https://www.dgl.ai/) follow the official installation instructions [here](https://www.dgl.ai/pages/start.html).
+
+Finally, register your new environment with IPykernel,
+
+> python -m ipykernel install --user --name grl-course-env --display-name "grl-course-env"
+
+## Running the example code
+
+Code examples are provided as Jupyter notebooks. All notebooks are located in the `notebooks` folder. To run the examples first change to the `notebooks` folder using,
+
+> cd notebooks
+
+Then start Jupyter using the following command,
+
+> jupyter notebook
+
+You can now run the examples using your web browser.
+
 ## Tutorial description
 
 Networks also known as graphs are fundamental to many aspects of modern society, from the internet, to transport, social networks, energy grids, health, and businesses. To effectively analyse these systems we need a deeper understanding of networks and the techniques available to work with them. Recently, new machine learning methods based on advancements in neural network representation learning have been developed to analyse graphs for prediction, visualisation and decision making. 
