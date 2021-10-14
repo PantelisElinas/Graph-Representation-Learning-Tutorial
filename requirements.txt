@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+networkx
+gensim
+ipykernel
+jupyter
+torch
+torchvision
+torchaudio
+dgl
