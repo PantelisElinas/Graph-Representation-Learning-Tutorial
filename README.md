@@ -55,7 +55,7 @@ This tutorial will give an introduction to machine learning on graphs and more s
 Participants will gain experience applying machine learning on graphs solving real-world problems using Python's machine learning modules, [PyTorch](https://pytorch.org/), and the [Deep Graph Library (DGL)](https://www.dgl.ai/). Participants should have a basic understanding of machine learning concepts and Python programming skills.
 
 
-## Books and Papers
+## Books and Papers: General
 
 A short (and incomplete) list of survey papers and books listed at no particular order.
 
@@ -64,3 +64,10 @@ A short (and incomplete) list of survey papers and books listed at no particular
 3. (survey paper) [Geometric deep learning: going beyond Euclidean data](https://www.thejournal.club/c/paper/106946/) by Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, and Pierre Vandergheynst, IEEE Signal Processing Magazine, 2017 
 4. (book) [Graph representation learning](https://www.thejournal.club/c/paper/377948/) by W.L. Hamilton, 2020
 5. (book) [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://www.thejournal.club/c/paper/343835/) by Michael M. Bronstein, Joan Bruna, Taco Cohen, and Petar Veličković, 2021
+
+## Papers: Part I
+
+1. [Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering
+](https://www.thejournal.club/c/paper/384453/), M. Belkin and P. Niyogi, NeurIPS 2001
+2. [Deepwalk: Online learning of social representations](https://www.thejournal.club/c/paper/54593/), B. Perozzi, R. Al-Rfou, and S. Skiena, KDD 2014
+3. [node2vec: Scalable feature learning for networks](https://www.thejournal.club/c/paper/97424/), A. Grover and J. Leskovec, KDD 2016
