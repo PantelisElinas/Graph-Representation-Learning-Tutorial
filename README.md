@@ -65,9 +65,25 @@ A short (and incomplete) list of survey papers and books listed at no particular
 4. (book) [Graph representation learning](https://www.thejournal.club/c/paper/377948/) by W.L. Hamilton, 2020
 5. (book) [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://www.thejournal.club/c/paper/343835/) by Michael M. Bronstein, Joan Bruna, Taco Cohen, and Petar Veličković, 2021
 
-## Papers: Part I
+## Papers: Tutorial Part I
 
 1. [Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering
 ](https://www.thejournal.club/c/paper/384453/), M. Belkin and P. Niyogi, NeurIPS 2001
 2. [Deepwalk: Online learning of social representations](https://www.thejournal.club/c/paper/54593/), B. Perozzi, R. Al-Rfou, and S. Skiena, KDD 2014
 3. [node2vec: Scalable feature learning for networks](https://www.thejournal.club/c/paper/97424/), A. Grover and J. Leskovec, KDD 2016
+4. [metapath2vec: Scalable Representation Learning for Heterogeneous Networks](https://www.thejournal.club/c/paper/290795/), Y. Dong, N.V. Chawla, and A. Swami, KDD 2017
+
+## Papers: Tutorial Part II
+
+1. [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://www.thejournal.club/c/paper/97237/), M. Defferrard, X. Bresson, and P. Vandergheynst, NeurIPS 2016
+2. [Semi-Supervised Classification with Graph Convolutional Networks](https://www.thejournal.club/c/paper/101516/), T.N. Kipf and M. Welling, ICLR 2017
+3. [Graph Attention Networks](https://www.thejournal.club/c/paper/134548/), P. Velickovic, G. Cucurull, A. Casanova, A. Romero, P. Lio, and Y. Bengio, ICLR 2018
+4. [Simplifying Graph Convolutional Networks](https://www.thejournal.club/c/paper/187881/), F. Wu, T. Zhang, A.H. de Souza, C. Fifty, T. Yu, K.Q. Weinberger, ICML 2019
+5. [Predict then Propagate: Graph Neural Networks meet Personalized PageRank](https://www.thejournal.club/c/paper/172090/), J. Klicpera, A. Bojchevski, and S. Günnemann, ICLR 2019
+6. [Inductive Representation Learning on Large Graphs](https://www.thejournal.club/c/paper/122200/), W.L. Hamilton, R. Ying, and J. Leskovec, NeurIPS 2017
+7. [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://www.thejournal.club/c/paper/200627/), W. Chiang, X. Liu, S. Si, Y. Li, S. Bengio, and C. Hsieh, KDD 2019
+8. [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://www.thejournal.club/c/paper/209589/), H. Zeng, H. Zhou, A. Srivastava, R. Kannan, and V. Prasanna, ICLR 2020
+9. [Representation Learning on Graphs with Jumping Knowledge Networks](https://www.thejournal.club/c/paper/157808/), K. Xu, C. Li, Y. Tian, T. Sonobe, K. Kawarabayashi, and S. Jegelka, ICML 2018
+10. [Self-Attention Graph Pooling](https://www.thejournal.club/c/paper/196055/), J. Lee, I. Lee, and J. Kang, ICML 2019
+11. [Hierarchical Graph Representation Learning with Differentiable Pooling](https://www.thejournal.club/c/paper/159426/), R. Ying, J. You, C. Morris, X. Ren, W.L. Hamilton, and J. Leskovec
+
