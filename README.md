@@ -86,4 +86,6 @@ A short (and incomplete) list of survey papers and books listed at no particular
 9. [Representation Learning on Graphs with Jumping Knowledge Networks](https://www.thejournal.club/c/paper/157808/), K. Xu, C. Li, Y. Tian, T. Sonobe, K. Kawarabayashi, and S. Jegelka, ICML 2018
 10. [Self-Attention Graph Pooling](https://www.thejournal.club/c/paper/196055/), J. Lee, I. Lee, and J. Kang, ICML 2019
 11. [Hierarchical Graph Representation Learning with Differentiable Pooling](https://www.thejournal.club/c/paper/159426/), R. Ying, J. You, C. Morris, X. Ren, W.L. Hamilton, and J. Leskovec
-
+12. [How Powerful are Graph Neural Networks?](https://www.thejournal.club/c/paper/170569/), K. Xu, W. Hu, J. Leskovec, S. Jegelka, ICLR 2019
+13. [Principal Neighbourhood Aggregation for Graph Nets](https://www.thejournal.club/c/paper/257161/),G. Corso, L. Cavalleri, D. Beaini, P. Liò, P. Veličković, NeurIPS 2020
+14. [Deep Sets](https://www.thejournal.club/c/paper/115378/), M. Zaheer, S. Kottur, S. Ravanbakhsh, B. Poczos, R. Salakhutdinov, A. Smola, NeurIPS 2017
