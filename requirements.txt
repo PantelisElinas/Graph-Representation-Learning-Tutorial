@@ -10,3 +10,4 @@ jupyter
 torch==2.2
 pydantic
 dgl
+scipy==1.10.1
