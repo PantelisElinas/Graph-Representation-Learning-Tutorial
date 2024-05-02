@@ -7,7 +7,6 @@ networkx
 gensim
 ipykernel
 jupyter
-torch
-torchvision
-torchaudio
+torch==2.2
+pydantic
 dgl
